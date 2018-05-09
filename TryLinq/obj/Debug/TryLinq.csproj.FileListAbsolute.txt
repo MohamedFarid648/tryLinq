@@ -1,0 +1,6 @@
+C:\Users\Mohamed Abdullah\Documents\Visual Studio 2017\Projects\LINQ\LINQ_Day3Assignments\TryLinq\bin\Debug\TryLinq.exe.config
+C:\Users\Mohamed Abdullah\Documents\Visual Studio 2017\Projects\LINQ\LINQ_Day3Assignments\TryLinq\bin\Debug\TryLinq.exe
+C:\Users\Mohamed Abdullah\Documents\Visual Studio 2017\Projects\LINQ\LINQ_Day3Assignments\TryLinq\bin\Debug\TryLinq.pdb
+C:\Users\Mohamed Abdullah\Documents\Visual Studio 2017\Projects\LINQ\LINQ_Day3Assignments\TryLinq\obj\Debug\TryLinq.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Abdullah\Documents\Visual Studio 2017\Projects\LINQ\LINQ_Day3Assignments\TryLinq\obj\Debug\TryLinq.exe
+C:\Users\Mohamed Abdullah\Documents\Visual Studio 2017\Projects\LINQ\LINQ_Day3Assignments\TryLinq\obj\Debug\TryLinq.pdb
